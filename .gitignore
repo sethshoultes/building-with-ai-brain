@@ -1,0 +1,15 @@
+# Personal / machine-specific files that should never be in this skeleton repo
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/canvas.json
+.obsidian/graph.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/app.json
+.brain-index.json
+claude-memory/
+.DS_Store
+
+# Backup directories — vault snapshots are personal
+backups/*
+!backups/.gitkeep
